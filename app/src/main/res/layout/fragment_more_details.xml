@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/moreDetailsFrag"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0B0D13"
+    tools:context=".MoreDetails">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/descriptionText"
+        android:layout_width="match_parent"
+        android:layout_height="158dp"
+        android:gravity="center|center_horizontal"
+        android:text="@string/hello_blank_fragment"
+        android:textColor="#CD4009"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/picture"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/london"
+        android:contentDescription="@string/todo" />
+
+</FrameLayout>

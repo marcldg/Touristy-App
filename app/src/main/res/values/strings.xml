@@ -1,0 +1,255 @@
+<resources>
+    <string name="app_name">Touristy</string>
+
+    <string-array name="destinations">
+        <item>Australia</item>
+        <item>Dubai</item>
+        <item>Greece</item>
+        <item>Italy</item>
+        <item>London</item>
+        <item>Mauritius</item>
+        <item>NewYork</item>
+        <item>Paris</item>
+        <item>Seychelles</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Southern hemisphere</item>
+        <item>Middle East</item>
+        <item>Europe</item>
+        <item>Europe</item>
+        <item>Europe</item>
+        <item>Indian Ocean</item>
+        <item>North America</item>
+        <item>Europe</item>
+        <item>Indian Ocean</item>
+    </string-array>
+
+    <string-array name="placesToGoAus">
+        <item>Sydney Opera House</item>
+        <item>Great Barrier Reef</item>
+        <item>Sydney Harbour Bridge</item>
+        <item>Sea World</item>
+        <item>Queen Victoria Market</item>
+        <item>Bondi Beach</item>
+        <item>Great Ocean Road</item>
+        <item>Kangaroo Island</item>
+        <item>Crown Melbourne</item>
+    </string-array>
+
+    <string-array name="placesToGoAusDescription">
+        <item>The Sydney Opera House is a multi venue performing arts centre at Sydney Harbour located in Sydney, New South Wales, Australia. It is one of the 20th century most famous and distinctive buildings.</item>
+        <item>The Great Barrier Reef is the world largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres over an area of approximately 344,400 square kilometres.</item>
+        <item>The Sydney Harbour Bridge is an Australian heritage listed steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic between the Sydney central business district and the North Shore.</item>
+        <item>Sea World is a marine mammal park, oceanarium, and theme park located on the Gold Coast, Queensland, Australia.</item>
+        <item>The Queen Victoria Market is a major landmark in the central business district of Melbourne, Victoria, Australia. Covering over seven hectares, it is the largest open air market in the Southern Hemisphere.</item>
+        <item>Bondi Beach is a popular beach and the name of the surrounding suburb in Sydney, New South Wales, Australia.</item>
+        <item>The Great Ocean Road is an Australian National Heritage listed 243 kilometre stretch of road along the south eastern coast of Australia between the Victorian cities of Torquay and Allansford.</item>
+        <item>Kangaroo Island lies off the mainland of South Australia, southwest of Adelaide. Over a third of the island is protected in nature reserves, home to native wildlife like sea lions, koalas and diverse bird species.</item>
+        <item>Crown Melbourne is a casino and resort located on the south bank of the Yarra River, in Melbourne, Australia. Crown Casino is a unit of Crown Limited.</item>
+    </string-array>
+
+    <string-array name="placesToGoDub">
+        <item>Burj Khalifa</item>
+        <item>Burj Al Arab</item>
+        <item>The Dubai Mall</item>
+        <item>Dubai Creek</item>
+        <item>Dubai Fountain</item>
+        <item>Ski Dubai</item>
+        <item>Emirates Mall</item>
+        <item>Jumeirah Beach</item>
+        <item>Gold Souk</item>
+    </string-array>
+
+    <string-array name="placesToGoDubDescription">
+        <item>The Burj Khalifa, known as the Burj Dubai prior to its inauguration in 2010, is a skyscraper in Dubai, United Arab Emirates. With a total height of 829.8 m and a roof height of 828 m, the Burj Khalifa has been the tallest structure and building in the world since its topping out in 2009.</item>
+        <item>The Burj Al Arab is a luxury hotel located in the city of Dubai, United Arab Emirates. Managed by Jumeirah hotel group, it is one of the tallest hotels in the world, although 39 percent of its total height is made up of non occupiable space.</item>
+        <item>The Dubai Mall is a shopping mall in Dubai. It is the largest mall in the world by total land area, and the 26th largest shopping mall in the world by gross leasable area, tying with West Edmonton Mall and Fashion Island.</item>
+        <item>Dubai Creek is a saltwater creek located in Dubai, United Arab Emirates. Previously, it extended to Ras Al Khor Wildlife Sanctuary but as part of the new Dubai canal it extends through to the Persian Gulf.</item>
+        <item>The Dubai Fountain is a choreographed fountain system located on the 12 hectare manmade Burj Khalifa Lake, at the center of the Downtown Dubai development in Dubai, United Arab Emirates.</item>
+        <item>Ski Dubai is an indoor ski resort with 22,500 square meters of indoor ski area. The park maintains a temperature of negative 1 degree to 2 degrees Celsius throughout the year.</item>
+        <item>Mall of the Emirates is a shopping mall in Dubai. Developed and owned by Majid Al Futtaim Properties, it opened in November 2005 and is located at interchange four on Sheikh Zayed road.</item>
+        <item>Jumeira Beach is a white sand beach that is located and named after the Jumeirah district of Dubai, United Arab Emirates, on the coast of the Persian Gulf.</item>
+        <item>Dubai Gold Souk or Gold Souk, is a traditional market in Dubai, UAE. The souk is located in Dubai commercial business district in Deira, in the locality of Al Dhagaya.</item>
+    </string-array>
+
+    <string-array name="placesToGoGreece">
+        <item>Santorini</item>
+        <item>Athens</item>
+        <item>Mykonos</item>
+        <item>Rhodes</item>
+        <item>Nafplion</item>
+        <item>Corfu</item>
+        <item>Meteora</item>
+        <item>Delphi</item>
+        <item>Olympia</item>
+    </string-array>
+
+    <string-array name="placesToGoGreeceDescription">
+        <item>Santorini is one of the Cyclades islands in the Aegean Sea. It was devastated by a volcanic eruption in the 16th century BC, forever shaping its rugged landscape.</item>
+        <item>Athens is the capital of Greece. It was also at the heart of Ancient Greece, a powerful civilization and empire.</item>
+        <item>Mykonos is an island in the Cyclades group in the Aegean Sea. It is popularly known for its summer party atmosphere. Beaches such as Paradise and Super Paradise have bars that blare thumping music.</item>
+        <item>Rhodes, the largest of Greece Dodecanese islands, is known for its beach resorts, ancient ruins and remnants of its occupation by the Knights of St. John during the Crusades.</item>
+        <item>Nafplio is a seaport town in the Peloponnese in Greece that has expanded up the hillsides near the north end of the Argolic Gulf.</item>
+        <item>Corfu, an island off Greece northwest coast in the Ionian Sea, is defined by rugged mountains and a resort studded shoreline.</item>
+        <item>The Meteora is a rock formation in central Greece hosting one of the largest and most precipitously built complexes of Eastern Orthodox monasteries, second in importance only to Mount Athos.</item>
+        <item>The modern town of Delphi is situated immediately west of the archaeological site of the same name. The town was created as a home for the population of Castro, which was to be removed to daylight the site of ancient Delphi.</item>
+        <item>Olympia, ruined ancient sanctuary, home of the ancient Olympic Games, and former site of the massive Statue of Zeus.</item>
+    </string-array>
+
+    <string-array name="placesToGoItaly">
+        <item>Rome</item>
+        <item>Venice</item>
+        <item>Florence</item>
+        <item>Naples</item>
+        <item>Milan</item>
+        <item>Cinque Terre</item>
+        <item>Pisa</item>
+        <item>Amalfi</item>
+        <item>Capri</item>
+    </string-array>
+
+    <string-array name="placesToGoItalyDescription">
+        <item>Rome is the capital city and a special comune of Italy, as well as the capital of the Lazio region. The city has been a major human settlement for almost three millennia.</item>
+        <item>Venice, the capital of northern Italy Veneto region, is built on more than 100 small islands in a lagoon in the Adriatic Sea. It has no roads, just canals including the Grand Canal thoroughfare lined with Renaissance and Gothic palaces.</item>
+        <item>Florence, capital of Italy Tuscany region, is home to many masterpieces of Renaissance art and architecture.</item>
+        <item>Naples, a city in southern Italy, sits on the Bay of Naples. Nearby is Mount Vesuvius, the still active volcano that destroyed nearby Roman town Pompeii.</item>
+        <item>Milan, a metropolis in Italy northern Lombardy region, is a global capital of fashion and design. Home to the national stock exchange, it is a financial hub also known for its high end restaurants and shops.</item>
+        <item>The Cinque Terre is a coastal area within Liguria, in the northwest of Italy. It lies in the west of La Spezia Province, and comprises five villages namely, Monterosso al Mare, Vernazza, Corniglia, Manarola, and Riomaggiore.</item>
+        <item>The Leaning Tower of Pisa or simply the Tower of Pisa is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four degree lean, the result of an unstable foundation.</item>
+        <item>Amalfi is a town in a dramatic natural setting below steep cliffs on Italy southwest coast. Between the 9th and 11th centuries, it was the seat of a powerful maritime republic.</item>
+        <item>Capri, an island in Italy Bay of Naples, is famed for its rugged landscape, upscale hotels and shopping, from designer fashions to limoncello and handmade leather sandals.</item>
+    </string-array>
+
+    <string-array name="placesToGoLondon">
+        <item>British Museum</item>
+        <item>Tower of London</item>
+        <item>Big Ben</item>
+        <item>Buckingham Palace</item>
+        <item>Tower Bridge</item>
+        <item>London Eye</item>
+        <item>Warner Bros Studio</item>
+        <item>The Shard</item>
+        <item>kewgardens</item>
+    </string-array>
+
+    <string-array name="placesToGoLondonDescription">
+        <item>The British Museum has a long history of chronicling the past. Founded in 1753, the British Museum is one of the worlds premier cultural history museums, housing more than 7 million objects in its collection of artifacts.</item>
+        <item>The Tower of London, officially Her Majestys Royal Palace and Fortress of the Tower of London, is a historic castle on the north bank of the River Thames in central London.</item>
+        <item>Big Ben is the nickname for the Great Bell of the striking clock at the north end of the Palace of Westminster. The name is frequently extended to also refer to the clock and the clock tower.</item>
+        <item>Buckingham Palace is the London residence and administrative headquarters of the monarchy of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality.</item>
+        <item>Tower Bridge is a combined bascule and suspension bridge in London, built between 1886 and 1894. The bridge crosses the River Thames close to the Tower of London and has become a world famous symbol of London.</item>
+        <item>The London Eye, or the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is Europe tallest cantilevered observation wheel, and is the most popular paid tourist attraction in the United Kingdom</item>
+        <item>Warner Bros. Studio Tour London. The Making of Harry Potter is a walkthrough exhibition and studio tour in Leavesden, southeast England, owned by Warner Bros.</item>
+        <item>The Shard, also referred to as the Shard of Glass, Shard London Bridge and formerly London Bridge Tower, is a 72 storey skyscraper, designed by the Italian architect Renzo Piano, in Southwark, London.</item>
+        <item>Royal Botanic Gardens, Kew, is a non departmental public body in the United Kingdom sponsored by the Department for Environment, Food and Rural Affairs.</item>
+    </string-array>
+
+    <string-array name="placesToGoMauritius">
+        <item>7 Colored Earth</item>
+        <item>Le Morne Brabant</item>
+        <item>Ile aux Cerfs</item>
+        <item>Chateau Labourdonnais</item>
+        <item>Casela</item>
+        <item>Champ de Mars</item>
+        <item>Portlouis Market</item>
+        <item>Bagatelle Mall</item>
+        <item>Trou aux Biches</item>
+    </string-array>
+
+    <string-array name="placesToGoMauritiusDescription">
+        <item>The seven Coloured Earths are a geological formation and prominent tourist attraction found in the Chamarel plain of the Riviere Noire District in south western Mauritius. It is a relatively small area of sand dunes comprising sand of seven distinct colours.</item>
+        <item>Le Morne Brabant is a peninsula at the extreme southwestern tip of the Indian Ocean island of Mauritius on the western side of the island. It is highlighted by an eponymous basaltic monolith with a summit 556 metres above sea level.</item>
+        <item>Ile aux Cerfs is a privately owned island near the east coast of Mauritius in the Flacq District. The island of Ile aux Cerfs lies off Trou Eau Douce in the largest lagoon of Mauritius and offers 87 hectares of luxuriant vegetation and preserved, white, sandy beaches.</item>
+        <item>The Chateau de Labourdonnais is an old sugar estate which dates from 1777 and which is located in Mapou, Mauritius. The house itself was built in 1856. Nowadays the Chateau de Labourdonnais has been converted to a museum and restaurant with a colonial period theme.</item>
+        <item>Casela nature park is the biggest wild life reserve of the island.</item>
+        <item>The Champ de Mars Racecourse is a thoroughbred horse race track in Port Louis, Mauritius. The Racecourse was inaugurated on 25 June 1812, by The Mauritius Turf Club</item>
+        <item>Popular market with paved alleys.</item>
+        <item>Casual shopping center features retail stores, a supermarket, eateries and a movie theater.</item>
+        <item>The beach is one of the most beautiful on the island. They awarded it the Worlds Leading Beach Destination at the World Travel Award for 2011.</item>
+    </string-array>
+
+    <string-array name="placesToGoNewYork">
+        <item>Central Park</item>
+        <item>Statue of Liberty</item>
+        <item>Empire State Building</item>
+        <item>Times Square</item>
+        <item>Brooklyn Bridge</item>
+        <item>Broadway</item>
+        <item>Bronx Zoo</item>
+        <item>Rockefeller Centre</item>
+        <item>9/11 Museum</item>
+    </string-array>
+
+    <string-array name="placesToGoNewYorkDescription">
+        <item>Central Park is an urban park in New York City located between the Upper West and Upper East Sides of Manhattan. It is the fifth largest park in the city by area, covering 843 acres. It is the most visited urban park in the United States.</item>
+        <item>The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor within New York City, in the United States.</item>
+        <item>The Empire State Building is a 102 story Art Deco skyscraper in Midtown Manhattan in New York City, United States. It was designed by Shreve, Lamb and Harmon and built from 1930 to 1931.</item>
+        <item>Times Square is a major commercial intersection, tourist destination, entertainment center, and neighborhood in the Midtown Manhattan section of New York City, at the junction of Broadway and Seventh Avenue.</item>
+        <item>The Brooklyn Bridge is a hybrid cable stayed suspension bridge in New York City, spanning the East River between Manhattan Island and Brooklyn on Long Island. Opened on May 24, 1883, the Brooklyn Bridge was the first fixed crossing of the East River.</item>
+        <item>Broadway is a road in the U.S. state of New York. Broadway runs from State Street at Bowling Green for 13 mi through the borough of Manhattan and 2 mi through the Bronx. Famous for its theaters.</item>
+        <item>The Bronx Zoo is a zoo within Bronx Park in the Bronx, New York. It is one of the largest zoos in the United States by area and is the largest metropolitan zoo in the United States by area, comprising 265 acres of park lands and naturalistic habitats separated by the Bronx River.</item>
+        <item>Rockefeller Center is a large complex consisting of 19 commercial buildings covering 22 acres between 48th Street and 51st Street in Midtown Manhattan, New York City.</item>
+        <item>The National September 11 Memorial and Museum is a memorial and museum in New York City commemorating the September 11, 2001 attacks, which killed 2,977 people, and the 1993 World Trade Center bombing, which killed six.</item>
+    </string-array>
+
+    <string-array name="placesToGoParis">
+        <item>Eiffel Tower</item>
+        <item>Louvre Museum</item>
+        <item>Arc de Triomphe</item>
+        <item>Versailles Palace</item>
+        <item>Champs Elysees</item>
+        <item>Sacre Coeur</item>
+        <item>Musee dOrsay</item>
+        <item>Montmarte</item>
+        <item>Moulin Rouge</item>
+    </string-array>
+
+    <string-array name="placesToGoParisDescription">
+        <item>The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. </item>
+        <item>The Louvre, or the Louvre Museum, is the worlds largest art museum and a historic monument in Paris, France, and is best known for being the home of the Mona Lisa. A central landmark of the city, it is located on the Right Bank of the Seine in the city 1st arrondissement. Approximately 38,000 objects from prehistory to the 21st century are exhibited over an area of 72,735 square meters.</item>
+        <item>The Arc de Triomphe de letoile is one of the most famous monuments in Paris, France, standing at the western end of the Champs Elysees at the centre of Place Charles de Gaulle, formerly named Place de letoile the etoile or star of the juncture formed by its twelve radiating avenues. The location of the arc and the plaza is shared between three arrondissements, 16th, 17th, and 8th.</item>
+        <item>The Palace of Versailles was the principal royal residence of France from 1682, under Louis XIV, until the start of the French Revolution in 1789, under Louis XVI. It is located in the department of Yvelines, in the region and province of Ile-de-France, about 20 kilometres southwest of the centre of Paris.</item>
+        <item>The Avenue des Champs Elysees is an avenue in the 8th arrondissement of Paris, France, 1.9 kilometres long and 70 metres wide, running between the Place de la Concorde and the Place Charles de Gaulle, where the Arc de Triomphe is located. It is known for its theatres, cafes, and luxury shops, for the annual Bastille Day military parade, and as the finish of the Tour de France cycling race.</item>
+        <item>The Basilica of the Sacred Heart of Paris, commonly known as Sacre Coeur Basilica and often simply Sacre Coeur, is a Roman Catholic church and minor basilica in Paris, France, dedicated to the Sacred Heart of Jesus. Sacre Coeur Basilica is located at the summit of the butte Montmartre, the highest point in the city.</item>
+        <item>The Musee dOrsay is a museum in Paris, France, on the Left Bank of the Seine. It is housed in the former Gare dOrsay, a Beaux Arts railway station built between 1898 and 1900.</item>
+        <item>Montmartre is a large hill in Paris 18th arrondissement. It is 130 m high and gives its name to the surrounding district, part of the Right Bank in the northern section of the city.</item>
+        <item>Moulin Rouge is a cabaret in Paris, France. The original house, which burned down in 1915, was co founded in 1889 by Charles Zidler and Joseph Oller, who also owned the Paris Olympia.</item>
+    </string-array>
+
+    <string-array name="placesToGoSeychelles">
+        <item>La Digue</item>
+        <item>Praslin</item>
+        <item>Curieuse</item>
+        <item>Anse Lazio</item>
+        <item>Ile du Nord</item>
+        <item>Beau Vallon Beach</item>
+        <item>Fregate</item>
+        <item>Bird</item>
+        <item>Desroches</item>
+    </string-array>
+
+    <string-array name="placesToGoSeychellesDescription">
+        <item>La Digue is the third most populated island of the Seychelles, and fourth largest by land area, lying east of Praslin and west of Felicite Island. In size it is the fourth largest granitic island of Seychelles after Mahe, Praslin and Silhouette Island.</item>
+        <item>Vallee de Mai Nature Reserve is a nature park and UNESCO World Heritage Site on the island of Praslin, Seychelles. It consists of a well preserved palm forest, flagship species made up of the island endemic coco de mer, as well as five other endemic palms.</item>
+        <item>Curieuse Island is a small granitic island 1.13 sq mi in the Seychelles close to the north coast of the island of Praslin. Curieuse is notable for its bare red earth intermingled with the unique coco de mer palms, one of the cultural icons of the Seychelles, only growing on the two neighboring islands.</item>
+        <item>Anse Lazio is a beach situated in the northwest of Praslin Island, Seychelles, considered by Lonely Planet to be the "best beach on Praslin, and one of the best in the archipelago. Located to the north east of Madagascar, east of Zanzibar and south of Socotra, in the middle of the Indian Ocean, it has clear water and scenery which can be perceived as beautiful, which attracts a large portion of Praslins tourists.</item>
+        <item>North Island is a small granitic island in the Seychelles.</item>
+        <item>Popular beach with snorkeling and eateries</item>
+        <item>Fregate Island is an island in Seychelles. The island is the easternmost of the granitic Inner Islands of the Seychelles. It is 2.07 square kilometres and is primarily known for the Oetker Collections secluded private luxury resort which funds an environmental programme to restore habitat and protect rare species.</item>
+        <item>Bird Island is the northernmost island in the Seychelles archipelago, 100 km from Mahe. The 0.94 square killometers coral island is known for its birdlife, including sooty terns, fairy terns and common noddies, and for hawksbill and green turtles.</item>
+        <item>Desroches Island or Ile Desroches is the main island of the Amirante Islands, part of the Outer Islands of the Seychelles. It is located 227 km southwest of Victoria, Seychelles. It is 5.5 km long and has a land area of 4.027 square killometers.</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_destinations">TOP DESTINATIONS</string>
+    <string name="places_to_go">PLACES TO GO</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+
+</resources>
